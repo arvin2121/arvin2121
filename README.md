@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Arvin Pourali and I'm 26 years old.
+- ✨ I’m a master student in embedded systems design.
+- ✨ I study at Bremerhaven university of applied sciences in Germany. 
+- 💞️ I studied electrical engineering in my bachelor's degree.
+- 📫 How to reach me:  arvinpourali@gmail.com
